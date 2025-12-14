@@ -11,9 +11,6 @@ xcuserdata/
 *.xcscmblueprint
 DerivedData/
 
-# App Bundle (собирается из исходников)
-NotesApp.app/
-
 # macOS
 .DS_Store
 .AppleDouble
