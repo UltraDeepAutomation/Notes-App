@@ -1,0 +1,55 @@
+{
+  "": {
+    "dependencies": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NotesApp.d",
+    "object": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NotesApp.o",
+    "swift-dependencies": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/master.swiftdeps"
+  },
+  "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/Sources/Models/Note.swift": {
+    "object": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/Note.swift.o",
+    "swiftmodule": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/Note~partial.swiftmodule",
+    "swift-dependencies": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/Note.swiftdeps",
+    "diagnostics": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/Note.dia"
+  },
+  "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/Sources/NotesApp.swift": {
+    "object": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NotesApp.swift.o",
+    "swiftmodule": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NotesApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NotesApp.swiftdeps",
+    "diagnostics": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NotesApp.dia"
+  },
+  "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/Sources/ViewModels/NotesStore.swift": {
+    "object": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NotesStore.swift.o",
+    "swiftmodule": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NotesStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NotesStore.swiftdeps",
+    "diagnostics": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NotesStore.dia"
+  },
+  "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/Sources/Views/GlassBackground.swift": {
+    "object": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/GlassBackground.swift.o",
+    "swiftmodule": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/GlassBackground~partial.swiftmodule",
+    "swift-dependencies": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/GlassBackground.swiftdeps",
+    "diagnostics": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/GlassBackground.dia"
+  },
+  "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/Sources/Views/MainView.swift": {
+    "object": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/MainView.swift.o",
+    "swiftmodule": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/MainView~partial.swiftmodule",
+    "swift-dependencies": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/MainView.swiftdeps",
+    "diagnostics": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/MainView.dia"
+  },
+  "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/Sources/Views/NoteEditorView.swift": {
+    "object": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NoteEditorView.swift.o",
+    "swiftmodule": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NoteEditorView~partial.swiftmodule",
+    "swift-dependencies": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NoteEditorView.swiftdeps",
+    "diagnostics": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NoteEditorView.dia"
+  },
+  "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/Sources/Views/NoteListView.swift": {
+    "object": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NoteListView.swift.o",
+    "swiftmodule": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NoteListView~partial.swiftmodule",
+    "swift-dependencies": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NoteListView.swiftdeps",
+    "diagnostics": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NoteListView.dia"
+  },
+  "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/Sources/Views/NoteRowView.swift": {
+    "object": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NoteRowView.swift.o",
+    "swiftmodule": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NoteRowView~partial.swiftmodule",
+    "swift-dependencies": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NoteRowView.swiftdeps",
+    "diagnostics": "/Users/leoerdman/Programming - MAIN FOLDER/MacOS App/NotesApp/.build/arm64-apple-macosx/release/NotesApp.build/NoteRowView.dia"
+  }
+}
